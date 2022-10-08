@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">FAN and Admob Remote Control</string>
+
+    <string name="fb_int_ad">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+
+    <string name="fb_bannerad_id">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+
+    <string name="admobbannerad">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="admob_int_ad">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="admobAppLevelIDManifest">ca-app-pub-3940256099942544~3347511713</string>
+
+</resources>

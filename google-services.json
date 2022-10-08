@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263194530528",
+    "project_id": "admob--fb",
+    "storage_bucket": "admob--fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263194530528:android:fd8475855a302214d8b685",
+        "android_client_info": {
+          "package_name": "com.trend.admobfbads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263194530528-jj3lum9rhs4a3iouakq4i35ma9uo7o7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB9WAHmcXcBWk7Xhvo9vSPpWG-uisS58Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263194530528-jj3lum9rhs4a3iouakq4i35ma9uo7o7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
